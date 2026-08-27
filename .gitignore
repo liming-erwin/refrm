@@ -1,0 +1,10 @@
+.DS_Store
+
+# Xcode user-specific state (not the project file itself — this project
+# has no XcodeGen setup, so PadelPop.xcodeproj must stay committed)
+xcuserdata/
+*.xcuserstate
+
+# Build output
+DerivedData/
+build/
